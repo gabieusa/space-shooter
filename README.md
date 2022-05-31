@@ -14,7 +14,7 @@ Espero que curta :)
 
 
 # Para rodar meu projeto
-Usar a tecla ESPAÇO para atirar no inmigo
+Usar a tecla ESPAÇO para atirar no inimigo
 
 SETA sobe e desce para movimentar sua nave.
 
