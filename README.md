@@ -14,5 +14,7 @@ Espero que curta :)
 
 
 # Para rodar meu projeto
+Usar a tecla ESPAÇO para atirar no inmigo
+SETA sobe e desce para movimentar sua nave.
 
-Para executarmos o projeto, basta apenas abrir o link:
+Para executarmos o projeto, basta apenas abrir o link: https://gabieusa.github.io/space-shooter/
